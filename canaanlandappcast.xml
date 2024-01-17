@@ -4,6 +4,7 @@
         <title>Debt Now App - Appcast</title>
         <item>
             <title>Version 5.5.1</title>
+            <sparkle:version>5.5.1</sparkle:version>
             <description>Minor updates and improvements.</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=com.kse.canaanland" sparkle:version="1.15.0" sparkle:os="android" />
